@@ -1,1 +1,1 @@
-# weather_app
+#  this is a calculator and it is used to do some basic calculations like + ,-,/,* and thats it the button "%" is used to calculate the modulus like 100%10 is 0 11%2 is 1 like that 
